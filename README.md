@@ -42,6 +42,9 @@ Multilinear Regresssion Model Assignment
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
+## Acknowledgement
+- Sincere thanks to Upgrad and IITB lecturues for teaching these concepts
+
 ## Contact
 
 Created by [@clraghuram] - feel free to contact me!
